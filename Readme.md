@@ -3,6 +3,8 @@
 
   Array iterator fallback until node's v8 has them
 
+  [![Build Status](https://travis-ci.org/jb55/array-iterator.png)](https://travis-ci.org/jb55/array-iterator)
+
 ## Installation
 
   Install with npm
