@@ -1,7 +1,8 @@
-
 # array-iterator
 
   Array iterator fallback until node's v8 has them
+  
+  [Some more useful iterators](https://github.com/jb55/generators/wiki/Registry)
 
   [![Build Status](https://travis-ci.org/jb55/array-iterator.svg)](https://travis-ci.org/jb55/array-iterator)
 
